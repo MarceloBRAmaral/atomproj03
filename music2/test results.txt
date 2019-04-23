@@ -11,7 +11,7 @@ Desktop:
 - opera: music plays
 
 iPhone:
-- chrome: music plays
-- firefox: music doesn't play
-- safari: 
+- chrome: music doesn't play
+- firefox: 
+- safari: music doesn't play
 - opera:
