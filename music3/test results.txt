@@ -1,14 +1,15 @@
 - test with .wav sound
+- when added loop to the audio, consider after /
 
 Android:
 
-- chrome: music plays
-- firefox: doesn't play
-- opera mini: asks for what to do with wav files, and doesn't play in the browser
+- chrome: music plays / next loop plays after some lag
+- firefox: doesn't play / same
+- opera mini: asks for what to do with wav files, and doesn't play in the browser / same
 
 Desktop:
 
-- firefox: music plays
+- firefox: music plays / loop smooth, no lag between loops
 - chrome: music plays
 - opera: music plays
 
