@@ -1,3 +1,7 @@
+- test with .mp3 sound
+- when added loop to the audio, consider after / (actually I can't produce an mp3 file without
+empty spaces at the beginning and at the end with audacity - waiting for another audio editor)
+
 Android:
 
 - chrome: music plays
