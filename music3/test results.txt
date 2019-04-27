@@ -2,18 +2,18 @@
 
 Android:
 
-- chrome: 
-- firefox: 
-- opera mini: 
+- chrome: music plays
+- firefox: doesn't play
+- opera mini: asks for what to do with wav files, and doesn't play in the browser
 
 Desktop:
 
-- firefox: 
-- chrome: 
-- opera: 
+- firefox: music plays
+- chrome: music plays
+- opera: music plays
 
 iPhone:
-- chrome: 
-- firefox: 
-- safari: 
-- opera: 
+- chrome: doesn't play
+- firefox: doesn't play
+- safari: doesn't play
+- opera: doesn't play
