@@ -10,8 +10,8 @@ Android:
 Desktop:
 
 - firefox: music plays / loop smooth, no lag between loops
-- chrome: music plays
-- opera: music plays
+- chrome: music plays / next loop plays after some lag
+- opera: music plays / next loop plays after some lag
 
 iPhone:
 - chrome: doesn't play
