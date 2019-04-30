@@ -1,21 +1,20 @@
 - test with .mp3 sound
-- when added loop to the audio, consider after / (actually I can't produce an mp3 file without
-empty spaces at the beginning and at the end with audacity - waiting for another audio editor)
+- when added loop to the audio, consider after / 
 
 Android:
 
-- chrome: music plays
-- firefox: music doesn't play
-- opera mini: asks for what to do with mp3 files, and doesn't play in the browser 
+- chrome: music plays / music doesn't play
+- firefox: music doesn't play / music doesn't play
+- opera mini: asks for what to do with mp3 files, and doesn't play in the browser / music doesn't play
 
 Desktop:
 
-- firefox: music plays
-- chrome: music plays
-- opera: music plays
+- firefox: music plays / loop ok
+- chrome: music plays / lag in the mp3 re-entry
+- opera: music plays / music doesn't play (loop doesn't work with opera)
 
 iPhone:
-- chrome: music doesn't play
-- firefox: music doesn't play
-- safari: music doesn't play
-- opera: music doesn't play
+- chrome: music doesn't play / music doesn't play
+- firefox: music doesn't play / music doesn't play
+- safari: music doesn't play / music doesn't play
+- opera: music doesn't play / music doesn't play
