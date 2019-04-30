@@ -1,6 +1,6 @@
 - test with .wav sound
 
-Android:
+Android (pensar num status bar para esperar o audio carregar antes do botão talvez; estudar):
 
 - chrome: 
 - firefox: 
