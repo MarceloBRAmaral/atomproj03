@@ -1,6 +1,6 @@
 - test with .mp3 sound
 
-Android (pensar num status bar para esperar o audio carregar antes do botão talvez; estudar):
+Android (pensar num status bar para esperar o audio carregar):
 
 - chrome: 
 - firefox: 
