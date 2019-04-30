@@ -1,0 +1,19 @@
+- test with .wav sound
+
+Android:
+
+- chrome: 
+- firefox: 
+- opera mini: 
+
+Desktop:
+
+- firefox: music plays 
+- chrome: 
+- opera: 
+
+iPhone:
+- chrome: 
+- firefox: 
+- safari: 
+- opera: 
