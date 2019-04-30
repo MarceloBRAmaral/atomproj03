@@ -30,7 +30,7 @@ ctx.font = '20px Arial';
 var speed = 4;
 //sounds
 var Audio;
-var shoot = new Audio("Laser_Shoot3.wav");
+var shoot = new Audio("../assets/Laser_Shoot3.wav");
 //images
 var Image;
 var playerImg = new Image();
