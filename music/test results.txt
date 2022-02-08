@@ -1,19 +1,19 @@
 - test with .mp3 sound
 
-Android (pensar num status bar para esperar o audio carregar):
+Android:
 
-- chrome: 
-- firefox: 
-- opera mini: 
+- chrome: music plays
+- firefox: music doesn't play
+- opera: music plays
 
 Desktop:
 
-- firefox: music plays 
-- chrome: 
-- opera: 
+- firefox: music plays (autoplay music is off by default)
+- chrome: music plays
+- opera: music plays
 
 iPhone:
-- chrome: 
-- firefox: 
-- safari: 
-- opera: 
+- chrome: music doesn't play
+- firefox: music doesn't play
+- safari: music doesn't play
+- opera: music doesn't play
